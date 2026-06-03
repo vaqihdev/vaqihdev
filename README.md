@@ -1,8 +1,24 @@
-# Hi, I'm Vaqih 👋
+<p align="center">
+  <img src="./Banner%20Github.png" alt="Banner" width="100%">
+</p>
 
-Cloud & DevOps Learner
+# Hey There! 👋
 
-Currently learning:
+I'm Vaqih.
+
+Cloud & DevOps learner focused on AWS infrastructure, automation, and Linux systems.
+
+---
+
+### 🚀 Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,aws,docker,kubernetes,terraform,bash,vscode&perline=9" />
+</p>
+
+---
+
+### 📚 Learning Path
 
 - Linux Administration
 - Git & GitHub
@@ -12,13 +28,15 @@ Currently learning:
 - Kubernetes
 - CI/CD
 
-## Featured Projects
+---
 
-### AWS Foundations Project
+### 🛠️ Current Projects
+
+#### AWS Foundations Project
 
 Infrastructure as Code project using AWS CloudFormation.
 
-**Skills**
+Topics:
 
 - Amazon VPC
 - Public & Private Subnets
@@ -28,34 +46,15 @@ Infrastructure as Code project using AWS CloudFormation.
 - EC2
 - CloudFormation
 
-Repository:
+---
 
-https://github.com/vaqihdev/aws-foundations-project
+### 🎯 2026 Goals
+
+- AWS Cloud Practitioner
+- Docker Fundamentals
+- Kubernetes Fundamentals
+- Terraform Basics
+- CI/CD Pipeline Project
 
 ---
 
-### Cloud Automation
-
-Linux automation scripts for cloud administration.
-
-Repository:
-
-https://github.com/vaqihdev/01-cloud-automation
-
----
-
-## Learning Roadmap
-
-- [x] Linux Fundamentals
-- [x] Git & GitHub
-- [x] AWS Foundations
-- [ ] Linux Administration Lab
-- [ ] Docker Lab
-- [ ] GitHub Actions Lab
-- [ ] Kubernetes Lab
-
----
-
-## Current Focus
-
-Building practical cloud and DevOps projects while documenting everything on GitHub.
